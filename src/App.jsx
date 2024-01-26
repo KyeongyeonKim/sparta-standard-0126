@@ -27,7 +27,6 @@ function App() {
       {/* TODO: StudentList 컴포넌트를 작성하고 필요한 props를 전달하세요. */}
       <StudentList
         filteredStudents={filteredStudents}
-        setFilteredStudents={setFilteredStudents}
 
         /* 필요한 props를 여기에 전달하세요. */
       />
